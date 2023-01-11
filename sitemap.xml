@@ -11,6 +11,15 @@
     <loc>http://www.example.com/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.example.com/projects/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/snake/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/wc/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.example.com/hire-me/</loc>
     <lastmod>2022-09-01T10:55:21-04:00</lastmod>
   </url><url>
@@ -21,9 +30,6 @@
     <lastmod>2022-08-30T01:47:58-04:00</lastmod>
   </url><url>
     <loc>http://www.example.com/projects/p3/</loc>
-    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/projects/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/projects/p2/</loc>

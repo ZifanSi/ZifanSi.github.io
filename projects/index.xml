@@ -6,7 +6,25 @@
     <description>Recent content in Projects on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanilla Game Set (Java)</title>
+      <link>http://www.example.com/projects/snake/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/snake/</guid>
+      <description> 1. Snake Check on Github Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Online Article Word Counter</title>
+      <link>http://www.example.com/projects/wc/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/wc/</guid>
+      <description> Start typing, or copy and paste your document here: Link to heading Word Count: 0</description>
+    </item>
+    
     <item>
       <title>Level 1 (Group) - Waste Disposal Prototype (Autodesk Inventor)</title>
       <link>http://www.example.com/projects/p3/</link>

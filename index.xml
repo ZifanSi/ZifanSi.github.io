@@ -37,6 +37,24 @@ custom fonts &amp;ndash; Mono sarasa, CMU sarif (LATEX)</description>
     </item>
     
     <item>
+      <title>Vanilla Game Set (Java)</title>
+      <link>http://www.example.com/projects/snake/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/snake/</guid>
+      <description> 1. Snake Check on Github Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Online Article Word Counter</title>
+      <link>http://www.example.com/projects/wc/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/wc/</guid>
+      <description> Start typing, or copy and paste your document here: Link to heading Word Count: 0</description>
+    </item>
+    
+    <item>
       <title>Hire Me</title>
       <link>http://www.example.com/hire-me/</link>
       <pubDate>Thu, 01 Sep 2022 10:55:21 -0400</pubDate>
@@ -65,8 +83,8 @@ Resume: Zifan Si - Resume Link to heading Email: siz@mcmaster.ca Link to heading
       <description>Hello! My name is Zifan Si - a second year Software Engineering student at McMaster University. I am passionate about combing my engineering skills into software field to impact the communities, starting from the one surrounding me.
 More details about my qualifications can be found on LinkedIn in here.
 Education Link to heading Bachelor of Engineering in Software Engineering (Co-op)
-McMaster University, 2026
-Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U Programming Languages Link to heading Java C/C++ Python HTML/CSS Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Microsoft Office </description>
+McMaster University, 2025
+Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Programming Languages Link to heading Java C/C++ Python HTML/CSS Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Microsoft Office Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U </description>
     </item>
     
     <item>
