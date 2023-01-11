@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Zifan Si</title>
+    <link>http://www.example.com/blog/</link>
+    <description>Recent content in Blogs on Zifan Si</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A checklist of useful tools for Windows</title>
+      <link>http://www.example.com/blog/blog1/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/blog/blog1/</guid>
+      <description>Setup Software Link to heading bandzip
+fastcopy
+spacesniffer
+everything
+potplayer
+adobe dc pro
+office
+jetbrain toolbox
+python 3.8, java JDK 8
+vscode
+notepad++
+virtualbox
+putty
+winscp
+wsl 2
+postman
+teamviewer
+v2ray
+wechat
+cuda
+custom fonts &amp;ndash; Mono sarasa, CMU sarif (LATEX)</description>
+    </item>
+    
+  </channel>
+</rss>

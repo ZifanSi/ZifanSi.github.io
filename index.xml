@@ -6,16 +6,45 @@
     <description>Recent content on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A checklist of useful tools for Windows</title>
+      <link>http://www.example.com/blog/blog1/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/blog/blog1/</guid>
+      <description>Setup Software Link to heading bandzip
+fastcopy
+spacesniffer
+everything
+potplayer
+adobe dc pro
+office
+jetbrain toolbox
+python 3.8, java JDK 8
+vscode
+notepad++
+virtualbox
+putty
+winscp
+wsl 2
+postman
+teamviewer
+v2ray
+wechat
+cuda
+custom fonts &amp;ndash; Mono sarasa, CMU sarif (LATEX)</description>
+    </item>
+    
     <item>
       <title>Hire Me</title>
       <link>http://www.example.com/hire-me/</link>
       <pubDate>Thu, 01 Sep 2022 10:55:21 -0400</pubDate>
       
       <guid>http://www.example.com/hire-me/</guid>
-      <description>I’m currently seeking Software related internships for Spring 2024 Co-op term !
+      <description>I’m currently seeking Software related internships for Spring 2023 Co-op term !
 Please see below my resume and feel free to get in touch with me !
-Resume: Zifan Si - Resume Link to heading Email: franksiprofession@gmail.com Link to heading </description>
+Resume: Zifan Si - Resume Link to heading Email: siz@mcmaster.ca Link to heading </description>
     </item>
     
     <item>
@@ -24,7 +53,7 @@ Resume: Zifan Si - Resume Link to heading Email: franksiprofession@gmail.com Lin
       <pubDate>Tue, 30 Aug 2022 01:57:09 -0400</pubDate>
       
       <guid>http://www.example.com/courses/</guid>
-      <description> Mathematics (4 courses) Link to heading Course Code Description Grade Math 1A03 Calculus For Science I A+ Math 1AA3 Calculus For Science II A+ MATH 1B03 Linear Algebra 1 A+ MATH 2Z03 Engineering Math III A General Engineering (1 course) Link to heading Course Code Description Grade ENGINEER 1P13 Integrated Dsgn Projcts in Eng A General Science (4 courses) Link to heading Course Code Description Grade CHEM 1E03 General Chemistry: Engineer I A+ PHYSICS 1A03 Introductory Physics A PHYSICS 1AA3 Introduction To Modern Physics A- PHYSICS 1E03 Wave,ElecMagnetic A- Complementary Elective (4 courses) Link to heading Course Code Description Grade LINGUIST 1Z03 Structure of Modern English I A+ LINGUIST 1ZZ3 Structure of Modern English II A+ ECON 1B03 Introductory Microeconomics A ECON 1BB3 Introductory Macroeconomics A- </description>
+      <description> Software Engineering (8 courses) Link to heading Course Code Description Grade SFWRENG 2OP3 Object-Oriented Programming A+ SFWRENG 2DM3 Discrete Mathematics with Applications I A SFWRENG 2XC3 Software Engineering Practice and Experience: Development Basics A SFWRENG 2DA4 Digital Systems and Interfacing A- SFWRENG 2FA3 Discrete Mathematics with Applications II Update at 2023 Winter SFWRENG 2GA3 Computer Architecture Update at 2023 Winter SFWRENG 2C03 Data Structures And Algorithms Update at 2023 Winter SFWRENG 2AA4 Software Design I - Introduction to Software Development Update at 2023 Winter Mathematics (4 courses) Link to heading Course Code Description Grade Math 1A03 Calculus For Science I A+ Math 1AA3 Calculus For Science II A+ MATH 1B03 Linear Algebra 1 A+ MATH 2Z03 Engineering Math III A General Engineering (1 course) Link to heading Course Code Description Grade ENGINEER 1P13 Integrated Dsgn Projcts in Eng A ENGINEER 2PX3 Integrated Engineering Design Project 2 Update at 2023 Winter General Science (4 courses) Link to heading Course Code Description Grade CHEM 1E03 General Chemistry: Engineer I A+ PHYSICS 1A03 Introductory Physics A PHYSICS 1AA3 Introduction To Modern Physics A- PHYSICS 1E03 Wave,ElecMagnetic A- Complementary Elective (4 courses) Link to heading Course Code Description Grade LINGUIST 1Z03 Structure of Modern English I A+ LINGUIST 1ZZ3 Structure of Modern English II A+ ECON 1B03 Introductory Microeconomics A ECON 1BB3 Introductory Macroeconomics A- </description>
     </item>
     
     <item>
@@ -37,7 +66,7 @@ Resume: Zifan Si - Resume Link to heading Email: franksiprofession@gmail.com Lin
 More details about my qualifications can be found on LinkedIn in here.
 Education Link to heading Bachelor of Engineering in Software Engineering (Co-op)
 McMaster University, 2026
-GPA: 3.9 / 4.0 Awarded the McMaster Entrance Scholarship Extracurricular Activities Link to heading Member, McMaster Club Programming Languages Link to heading Java C/C++ HTML CSS Python MATLAB Tools Link to heading Autodesk Inventor Github Microsoft Office Hugo </description>
+Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U Programming Languages Link to heading Java C/C++ Python HTML/CSS Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Microsoft Office </description>
     </item>
     
     <item>
