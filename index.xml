@@ -6,7 +6,25 @@
     <description>Recent content on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mesh Generation (will update soon)</title>
+      <link>http://www.example.com/projects/meshgeneration/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/meshgeneration/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Pros and Cons Of Using Logging Mechanisms Instead Of Print Statements</title>
+      <link>http://www.example.com/blog/blog2/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/blog/blog2/</guid>
+      <description>Pros: Link to heading The print() statement only displays output on the local machine’s console. In other words, print() will fail if our code does not have access to the console. But the log mechanisms will record logging data inside a txt file. logging mechanisms (Introduced Log4J) can also minimize the unnecessary output from the console. If we want to diagnose a specific action but not the entire output, we can use print(specific action) and logger.</description>
+    </item>
+    
     <item>
       <title>A checklist of useful tools for Windows</title>
       <link>http://www.example.com/blog/blog1/</link>

@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.example.com/blog/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/meshgeneration/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/blog/blog2/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.example.com/blog/blog1/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/blog/</loc>
-    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.example.com/projects/javagameset/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/projects/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.example.com/projects/wc/</loc>
