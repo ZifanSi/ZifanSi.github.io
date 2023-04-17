@@ -6,14 +6,16 @@
     <description>Recent content on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mesh Generation (will update soon)</title>
-      <link>http://www.example.com/projects/meshgeneration/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Island Generator | Awarded First Place by McMaster Faculty of Engineering | Java</title>
+      <link>http://www.example.com/projects/islandgenerator/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/meshgeneration/</guid>
-      <description> </description>
+      <guid>http://www.example.com/projects/islandgenerator/</guid>
+      <description> Check project on Github
+Post from McMaster Faculty of Engineering: Link to heading We asked, and our students delivered! A fantastic Fireball island map. 🔥🔥🔥 https://t.co/ePWHcZzYeg
+&amp;mdash; McMaster Engineering (@McMasterEng) April 12, 2023 Gallary: Link to heading UML: Link to heading Sequence: Link to heading </description>
     </item>
     
     <item>
@@ -101,7 +103,7 @@ Resume: Zifan Si - Resume Link to heading Email: siz@mcmaster.ca Link to heading
       <description>Hello! My name is Zifan Si - a second year Software Engineering student at McMaster University. I am passionate about combing my engineering skills into software field to impact the communities, starting from the one surrounding me.
 Education Link to heading Bachelor of Engineering in Software Engineering (Co-op)
 McMaster University, 2025
-Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Programming Languages Link to heading Java C/C++ Python HTML/CSS Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Latex Microsoft Office Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U </description>
+Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Programming Languages Link to heading Java C/C++ Python HTML/CSS SQL Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Latex Microsoft Office Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U Member, McMaster Blockchain Club </description>
     </item>
     
     <item>
