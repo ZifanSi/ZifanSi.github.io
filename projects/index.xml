@@ -6,39 +6,9 @@
     <description>Recent content in Projects on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Island Generator | Awarded by McMaster Faculty of Engineering | Java</title>
-      <link>http://www.example.com/projects/islandgenerator/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/islandgenerator/</guid>
-      <description> Check project on Github
-Check on McMaster Faculty of Engineering Linkedin
-Post from McMaster Faculty of Engineering: Link to heading We asked, and our students delivered! A fantastic Fireball island map. 🔥🔥🔥 https://t.co/ePWHcZzYeg
-&amp;mdash; McMaster Engineering (@McMasterEng) April 12, 2023 Gallary: Link to heading UML: Link to heading Sequence: Link to heading </description>
-    </item>
-    
-    <item>
-      <title>Game Set | Java</title>
-      <link>http://www.example.com/projects/javagameset/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/javagameset/</guid>
-      <description> 1. Piraten Kapern Check on Github Link to heading 2. Snake Check on Github Link to heading </description>
-    </item>
-    
-    <item>
-      <title>Online Article Word Counter | HTML, Javascript </title>
-      <link>http://www.example.com/projects/wc/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/wc/</guid>
-      <description> Start typing, or copy and paste your document here: Link to heading Word Count: 0</description>
-    </item>
-    
-    <item>
-      <title>Waste Disposal Prototype | McMaster | Autodesk Inventor</title>
+      <title>Waste Disposal Prototype | Autodesk Inventor</title>
       <link>http://www.example.com/projects/p3/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -48,7 +18,7 @@ Summary Link to heading My team and I created a mechanism that could life a hopp
     </item>
     
     <item>
-      <title>Autoclave Sorting Program | McMaster | Python</title>
+      <title>Autoclave Sorting Program | Python</title>
       <link>http://www.example.com/projects/p2/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       

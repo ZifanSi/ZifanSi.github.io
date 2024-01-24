@@ -6,109 +6,22 @@
     <description>Recent content on Zifan Si</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Island Generator | Awarded by McMaster Faculty of Engineering | Java</title>
-      <link>http://www.example.com/projects/islandgenerator/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/islandgenerator/</guid>
-      <description> Check project on Github
-Check on McMaster Faculty of Engineering Linkedin
-Post from McMaster Faculty of Engineering: Link to heading We asked, and our students delivered! A fantastic Fireball island map. 🔥🔥🔥 https://t.co/ePWHcZzYeg
-&amp;mdash; McMaster Engineering (@McMasterEng) April 12, 2023 Gallary: Link to heading UML: Link to heading Sequence: Link to heading </description>
-    </item>
-    
-    <item>
-      <title>Pros and Cons Of Using Logging Mechanisms Instead Of Print Statements</title>
-      <link>http://www.example.com/blog/blog2/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/blog/blog2/</guid>
-      <description>Pros: Link to heading The print() statement only displays output on the local machine’s console. In other words, print() will fail if our code does not have access to the console. But the log mechanisms will record logging data inside a txt file. logging mechanisms (Introduced Log4J) can also minimize the unnecessary output from the console. If we want to diagnose a specific action but not the entire output, we can use print(specific action) and logger.</description>
-    </item>
-    
-    <item>
-      <title>A checklist of useful tools for Windows</title>
-      <link>http://www.example.com/blog/blog1/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/blog/blog1/</guid>
-      <description>Setup Software Link to heading bandzip
-fastcopy
-spacesniffer
-everything
-potplayer
-adobe dc pro
-office
-jetbrain toolbox
-python 3.8, java JDK 8
-vscode
-notepad++
-virtualbox
-putty
-winscp
-wsl 2
-postman
-teamviewer
-v2ray
-wechat
-cuda
-custom fonts &amp;ndash; Mono sarasa, CMU sarif (LATEX)</description>
-    </item>
-    
-    <item>
-      <title>Game Set | Java</title>
-      <link>http://www.example.com/projects/javagameset/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/javagameset/</guid>
-      <description> 1. Piraten Kapern Check on Github Link to heading 2. Snake Check on Github Link to heading </description>
-    </item>
-    
-    <item>
-      <title>Online Article Word Counter | HTML, Javascript </title>
-      <link>http://www.example.com/projects/wc/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/wc/</guid>
-      <description> Start typing, or copy and paste your document here: Link to heading Word Count: 0</description>
-    </item>
-    
-    <item>
-      <title>Hire Me</title>
-      <link>http://www.example.com/hire-me/</link>
-      <pubDate>Thu, 01 Sep 2022 10:55:21 -0400</pubDate>
-      
-      <guid>http://www.example.com/hire-me/</guid>
-      <description>I’m currently seeking Software related internships for Spring 2023 Co-op term !
-Please see below my resume and feel free to get in touch with me !
-Resume: Zifan Si - Resume Link to heading Email: siz@mcmaster.ca Link to heading </description>
-    </item>
-    
-    <item>
-      <title>Courses - McMaster University</title>
-      <link>http://www.example.com/courses/</link>
-      <pubDate>Tue, 30 Aug 2022 01:57:09 -0400</pubDate>
-      
-      <guid>http://www.example.com/courses/</guid>
-      <description> Software Engineering (8 courses) Link to heading Course Code Description Grade SFWRENG 2OP3 Object-Oriented Programming A+ SFWRENG 2DM3 Discrete Mathematics with Applications I A SFWRENG 2XC3 Software Engineering Practice and Experience: Development Basics A SFWRENG 2DA4 Digital Systems and Interfacing A- SFWRENG 2FA3 Discrete Mathematics with Applications II Update at 2023 Winter SFWRENG 2GA3 Computer Architecture Update at 2023 Winter SFWRENG 2C03 Data Structures And Algorithms Update at 2023 Winter SFWRENG 2AA4 Software Design I - Introduction to Software Development Update at 2023 Winter Mathematics (4 courses) Link to heading Course Code Description Grade Math 1A03 Calculus For Science I A+ Math 1AA3 Calculus For Science II A+ MATH 1B03 Linear Algebra 1 A+ MATH 2Z03 Engineering Math III A General Engineering (1 course) Link to heading Course Code Description Grade ENGINEER 1P13 Integrated Dsgn Projcts in Eng A ENGINEER 2PX3 Integrated Engineering Design Project 2 Update at 2023 Winter General Science (4 courses) Link to heading Course Code Description Grade CHEM 1E03 General Chemistry: Engineer I A+ PHYSICS 1A03 Introductory Physics A PHYSICS 1AA3 Introduction To Modern Physics A- PHYSICS 1E03 Wave,ElecMagnetic A- Complementary Elective (4 courses) Link to heading Course Code Description Grade LINGUIST 1Z03 Structure of Modern English I A+ LINGUIST 1ZZ3 Structure of Modern English II A+ ECON 1B03 Introductory Microeconomics A ECON 1BB3 Introductory Macroeconomics A- </description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>http://www.example.com/about/</link>
       <pubDate>Tue, 30 Aug 2022 01:47:58 -0400</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>Hello! My name is Zifan Si - a second year Software Engineering student at McMaster University. I am passionate about combing my engineering skills into software field to impact the communities, starting from the one surrounding me.
-Education Link to heading Bachelor of Engineering in Software Engineering (Co-op)
-McMaster University, 2025
-Achieved a GPA of 3.9/4.0 as well as the Dean’s Excellence Award Programming Languages Link to heading Java C/C++ Python HTML/CSS SQL Verilog MATLAB Tools Link to heading Vim Make Linux Git Bash Github Autodesk Inventor Latex Microsoft Office Extracurricular Activities Link to heading Member, Google Developer Student Clubs McMaster U Member, McMaster Blockchain Club </description>
+      <description>BAD PROGRAMMERS IGNORE DETAILS, BAD DESIGNERS GET LOST IN DETAILS.
+Education Link to heading Bachelor of Engineering in Software Engineering
+McMaster University, Sep 2021 - Apr 2025
+Experience Link to heading Junior Application Developer
+Hamilton Health Sciences, Jun 2023 - Jun 2024</description>
     </item>
     
     <item>
-      <title>Waste Disposal Prototype | McMaster | Autodesk Inventor</title>
+      <title>Waste Disposal Prototype | Autodesk Inventor</title>
       <link>http://www.example.com/projects/p3/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -118,7 +31,7 @@ Summary Link to heading My team and I created a mechanism that could life a hopp
     </item>
     
     <item>
-      <title>Autoclave Sorting Program | McMaster | Python</title>
+      <title>Autoclave Sorting Program | Python</title>
       <link>http://www.example.com/projects/p2/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       
